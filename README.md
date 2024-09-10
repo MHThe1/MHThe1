@@ -2,7 +2,7 @@
 
 **`Byte Architect (Developer/Creator)`**
 <div>
-<a href="https://https://mehedihtanvir.me/">
+<a href="https://mehedihtanvir.me/">
       <img alt="My Portfolio Website" src="https://img.shields.io/static/v1?color=%237733ff&label=Portfolio&message=mehedihtanvir.me&style=flat&logo=amp&logoColor=ffffff&labelColor=334155">
 </a>
 </div>
